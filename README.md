@@ -5,6 +5,6 @@ Graphs and plots to compare the training and validation loss and accuracy are al
 
 1. Dataset :https://drive.google.com/drive/folders/1HELqHalSkAcQJSEUYQrNfOdNmwH8hjpr?usp=drive_link
 
-2. Notebook:https://colab.research.google.com/drive/1xYZ3DdJHtHkeAclWtRlTuuR2D5fh7Gel?usp=drive_link
+2. Object_classifier.ipynb : Contains the codes and plots for the training, validation and experiments.
 
-3. Experiments and their inference :https://github.com/user-attachments/files/28931266/Experiments.and.their.inference.pdf
+3. Experiments and their inference : Includes experiments, observation and their insights.
